@@ -1,4 +1,4 @@
-def configure_entrez(default_api_key='b7a9a1370cb8c51672e5c1dfcd7117a47108', default_email='marioassis1996@gmail.com'):
+def configure_entrez(default_api_key='', default_email=''):
     """
     Configura as credenciais para o NCBI Entrez.
 
